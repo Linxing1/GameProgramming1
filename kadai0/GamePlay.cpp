@@ -24,6 +24,8 @@ void CActionGameApp::procPlayBegin()
 
 //PhanXuanDung
 
+//ズン
+
 //━━━━━━━━━━━━━━━━━━━━━━━
 // インゲーム画面のメイン処理
 //━━━━━━━━━━━━━━━━━━━━━━━
