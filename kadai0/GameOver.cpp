@@ -10,6 +10,7 @@ eGameStatus goNextStatusFromGameOver = eNone;
 CPicture* pGameOverBackground = nullptr;
 CPicture* pGameOverImg = nullptr;
 
+
 //━━━━━━━━━━━━━━━━━━━━━━━
 // ゲームオーバーのフロー
 //━━━━━━━━━━━━━━━━━━━━━━━

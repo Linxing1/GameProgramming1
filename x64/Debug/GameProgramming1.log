@@ -1,12 +1,2 @@
-﻿  CActionGameApp.cpp
-  CObjectBase.cpp
-  Component.cpp
-  GameClear.cpp
-  GameOver.cpp
-  GamePlay.cpp
-  GameTitle.cpp
-  InOutputFile.cpp
-  Submarine.cpp
-  Turret.cpp
-  コードを生成中...
-  GameProgramming1.vcxproj -> C:\Users\Noddy Ng\Desktop\ビーボ\x64\Debug\GameProgramming1.exe
+﻿  GameOver.cpp
+  GameProgramming1.vcxproj -> Z:\Documents\game\ビーボ\x64\Debug\GameProgramming1.exe

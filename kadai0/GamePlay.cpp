@@ -22,6 +22,8 @@ void CActionGameApp::procPlayBegin()
 	if (!pSubmarine)pSubmarine = shared_ptr<Submarine>(new Submarine(getGameInfo()));
 }
 
+//PhanXuanDung
+
 //━━━━━━━━━━━━━━━━━━━━━━━
 // インゲーム画面のメイン処理
 //━━━━━━━━━━━━━━━━━━━━━━━
