@@ -53,6 +53,7 @@ void CActionGameApp::procPlayEnd()
 {
 	renderSprite(pBackground);
 	// hahaha
+	// hahaha
 }
 
 //━━━━━━━━━━━━━━━━━━━━━━━
