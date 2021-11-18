@@ -1,0 +1,2 @@
+﻿CVTRES : fatal error CVT1100: 重複するリソースです。  type:ICON, name:1, language:0x0409
+LINK : fatal error LNK1123: COFF への変換中に障害が発生しました:ファイルが無効であるか、または壊れています。
